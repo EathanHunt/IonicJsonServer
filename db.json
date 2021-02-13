@@ -1,0 +1,137 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "id": 1,
+      "name": "Spices",
+      "image": "images/categories/spices.jpg"
+    },
+    {
+      "_id": 2,
+      "id": 2,
+      "name": "Instant Food",
+      "image": "images/categories/instantFood.jpg"
+    },
+    {
+      "_id": 3,
+      "id": 3,
+      "name": "Frozen Items",
+      "image": "images/categories/frozenItems.jpg"
+    },
+    {
+      "_id": 4,
+      "id": 4,
+      "name": "Provisions",
+      "image": "images/categories/provisions.jpg"
+    },
+    {
+      "_id": 5,
+      "id": 5,
+      "name": "Beverages",
+      "image": "images/categories/provisions.jpg"
+    },
+    {
+      "_id": 6,
+      "id": 6,
+      "name": "Pan",
+      "image": "images/categories/provisions.jpg"
+    },
+	{
+      "_id": 7,
+      "id": 7,
+      "name": "Biscuits",
+      "image": "images/categories/provisions.jpg"
+    }
+  ],
+  "items": [
+    {
+      "_id": 1,
+      "id": 1,
+      "name": "Radha Bhog Aata",
+      "price": 300,
+	  "quantity": "2 Kg",
+      "image": "images/items/aata.jpg",
+      "category": 4
+    },
+    {
+      "_id": 2,
+      "id": 2,
+      "name": "CocaCola",
+      "price": 60,
+      "image": "images/items/coke.jpg",
+      "category": 5
+    },
+    {
+      "_id": 3,
+      "id": 3,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 3,
+      "id": 3,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 4,
+      "id": 4,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 5,
+      "id": 5,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 6,
+      "id": 6,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 7,
+      "id": 7,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 8,
+      "id": 8,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 9,
+      "id": 9,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    },
+    {
+      "_id": 10,
+      "id": 10,
+      "name": "Pepsi",
+      "price": 65,
+      "image": "images/items/pepsi.jpg",
+      "category": 5
+    }
+  ]
+}
